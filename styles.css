@@ -1,0 +1,116 @@
+#mainImage {
+    width: 400px;
+    height: auto;
+    margin: auto;
+    display:block;
+}
+
+#meetingDatesTitle {
+    margin: auto;
+    text-align: center;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 20px;
+    color: darkslategrey;
+    position:relative;
+    top: -60px;
+}
+
+#background {
+    background-color: aliceblue;
+}
+
+p.meet {
+    margin: auto;
+    text-align: center;
+    font-style: normal;
+    font-size: 20px;
+    color: darkslategrey;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+#meetDate {
+    color:white;
+}
+
+#meetBox {
+    background-color: crimson;
+    width: 200px;
+    margin:auto;
+    position:relative;
+    top: 20px;
+}
+
+.rect {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    width: auto;
+    height: auto;
+}
+
+
+#upcomingEvents {
+     border-radius: 30px;
+     background-color: darkslategrey;
+     width: calc(40% - 40px);
+     height: 400px;
+     margin:auto;
+     margin-left: 10%;
+     position:relative;
+     top: 100px;
+ }
+
+
+
+#resources {
+    border-radius: 30px;
+    background-color: darkslategrey;
+    width: calc(40% - 40px);
+    height: 500px;
+    margin: auto;
+    margin-top: -370px;
+    margin-right: 10%;
+    position:relative;
+    top: 50px;
+}
+
+#mailist {
+    border-radius: 30px;
+    background-color: darkslategrey;
+    width: calc(40% - 40px);
+    height: 200px;
+    margin: auto;
+    margin-top: -370px;
+    margin-left:10%;
+    position:relative;
+    top: 350px;
+}
+
+.boxHeader {
+    color: white;
+    font-family: ArialBlack, Geneva, sans-serif;
+    font-size: 30px;
+    position:relative;
+    left: 10px;
+    top: -20px;
+}
+
+.resourceHeader {
+    position:relative;
+    font-family: ArialBlack, Geneva, sans-serif;
+    color: white;
+    left: 20px;
+    text-decoration: underline
+}
+
+.resourceText {
+    position:relative;
+    font-family: ArialBlack, Geneva, sans-serif;
+    color: white;
+    left: 40px;
+    width: calc( 90% - 20px );
+}
+
+
